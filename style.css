@@ -35,6 +35,8 @@ body{
     display: none;
 }
 
+
+
 .hero-content .menu-item:hover{
     color: #333333;
     cursor: pointer;
@@ -235,6 +237,7 @@ body{
 .dance p{
     font-family: 'Poppins' ,sans-serif;
     margin-bottom: 10px;
+    margin-top: 40px;
 }
 
 .dance img{
